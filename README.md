@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository 
 <br>
-Author - Tushar Gurupanch 
+Author - Tushar (Grand Master)
