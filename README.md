@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my first repository 
 <br>
-Author - Tushar Gurupanch
+Author - Tushar Gurupanch(Tushar)
+
